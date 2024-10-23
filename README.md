@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/marketing-subscription-prediction.git](https://github.com/ZERO-legion5/MarketingSubscriptionPrediction)
+    git clone https://github.com/ZERO-legion5/MarketingSubscriptionPrediction.git
     ```
 
 2. Navigate to the project directory:
@@ -41,5 +41,3 @@ To run this project locally, follow these steps:
     ```bash
     streamlit run app.py
     ```
-
-## Project Structure
